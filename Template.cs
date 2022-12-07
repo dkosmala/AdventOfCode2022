@@ -2,17 +2,17 @@ using System;
 
 public class DayX
 {
-   public string first()
+   public void first()
    {
       string[] lines = System.IO.File.ReadAllLines(@"Day1/Day1-1 input.txt");
 
-      return "";
+      Console.WriteLine("");
    }
 
-   public string second()
+   public void second()
    {
       string[] lines = System.IO.File.ReadAllLines(@"Day1/Day1-1 input.txt");
 
-      return "";
+      Console.WriteLine("");
    }
 }
